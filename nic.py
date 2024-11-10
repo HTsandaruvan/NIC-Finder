@@ -86,6 +86,11 @@ def getday(days): # find month and day
             Date = 12
             month = 1
             monthName = "January"
+        case 13:
+            outDate = "13th of January"
+            Date = 13
+            month = 1
+            monthName = "January"
         case 142:
             outDate = "21st of May"
             Date = 21
